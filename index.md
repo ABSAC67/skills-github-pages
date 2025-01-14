@@ -1,6 +1,3 @@
----
-title: Welcome to my blog
----
 
 <!DOCTYPE html>
 <html>
@@ -13,6 +10,9 @@ title: Welcome to my blog
     <link rel="apple-touch-icon" href="https://i.imgur.com/Ns1A9eo.png" sizes="120x120">
     <link rel="apple-touch-icon" href="https://i.imgur.com/2WYWjzS.png" sizes="32x32">
     <link rel="apple-touch-icon" href="https://i.imgur.com/wlYpDNs.png" sizes="16x16">
+
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
 
   </head>
 
