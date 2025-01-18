@@ -20,6 +20,7 @@
 
   <body>
     <h1>Welcome to My Web App</h1>
+    <p>testing</p>
     <img src="https://i.imgur.com/A190aaT.png" alt="192x192">
     <img src="https://i.postimg.cc/XZvHxLTn/portholelogotransparent-copy.png" alt="different image hoster test 180x180">
     <img src="https://i.imgur.com/IL36Fl8.png" alt="152x152 iPadMini and iPads">
